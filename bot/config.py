@@ -6,8 +6,8 @@ class config:
     SUDO_USERS = "832150464" # Sepearted by space.
     SUPPORT_CHAT_LINK = "https://t.me/dijitalkitap"
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = ""
-    G_DRIVE_CLIENT_SECRET = ""
+    G_DRIVE_CLIENT_ID = "963417986154-8pij49avjbck20tml12pfcr58uvqnk17.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "Yn4My5jZoPW65hzFcVxPWJYa"
 
 
 class BotCommands:
